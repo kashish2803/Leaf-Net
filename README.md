@@ -1,4 +1,2 @@
 # Leaf-Net
-Leaf Species Classification using Deep Learning and Computer Vision
-
-<p> </p>
+Leaf Species Classification using Deep Learning and Computer Vision.
